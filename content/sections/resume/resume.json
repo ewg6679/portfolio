@@ -1,0 +1,12 @@
+{
+  "image": {
+    "src": "../../images/resume.png",
+    "alt": "Resume"
+  },
+  "description": "Hello, World",
+  "button": {
+    "visible": true,
+    "label": "Download",
+    "url": "https://github.com/ewg6679"
+  }
+}

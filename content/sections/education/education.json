@@ -1,0 +1,11 @@
+{
+  "school": "Rochester Institute of Technology",
+  "image": {
+    "src": "../../images/rit-1.png",
+    "alt": "RIT"
+  },
+  "degree": "Bachelor of Science in Computer Science",
+  "location": "Rochester, NY",
+  "graduation": "Expected May 2025",
+  "gpa": "3.4 GPA"
+}

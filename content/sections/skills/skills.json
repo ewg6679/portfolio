@@ -1,0 +1,65 @@
+{
+  "skills": [
+    {
+      "label": "HTML/CSS",
+      "image": {
+        "src": "../../images/html5.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python/PyCharm",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java/IntelliJ IDEA",
+      "image": {
+        "src": "../../images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C/C++",
+      "image": {
+        "src": "../../images/c.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PWA (Offline Support)",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Modern Tech-Stack",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Blazing Fast",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownSkills": 5
+  }
+}

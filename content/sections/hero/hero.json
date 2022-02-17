@@ -1,18 +1,12 @@
 {
-  "intro": "Hej",
+  "intro": "Hello, World",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
-  },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "prefix": "I'm Emanuelle Griffin, a ",
+    "highlight": "software developer",
+    "suffix": " from Brooklyn, NY. Scroll down to learn more about what I can do."
   }
 }
